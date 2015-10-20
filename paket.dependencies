@@ -1,3 +1,7 @@
 source https://nuget.org/api/v2
 nuget FAKE
 nuget Suave 0.30.0
+nuget Suave.DotLiquid
+nuget DotLiquid
+nuget SQLProvider
+nuget System.Data.SQLite
